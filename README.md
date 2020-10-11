@@ -2,7 +2,7 @@
 
 **💼 Currently working as:**
 
-Software Engineer at <a href="https://www.saigon-tech.vn/" target="_blank"><b>SAIGON TECH COMPANY LIMITED</b></a>
+Software Engineer at <a href="https://www.saigon-tech.vn/" target="_blank"><b>SAIGON TECH COMPANY LIMITED <img width="25px" src="gif/logo.png" /></b></a>
 
 **:computer: Programming Language:**
 
