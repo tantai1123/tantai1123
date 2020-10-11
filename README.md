@@ -1,4 +1,4 @@
-<h1 align= "center"><b><img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> Hello, I'm Tấn Tài <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></b></h1>
+<h1 align= "center"><b><img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> Hello, I'm Tấn Tài <img width="40px" src="gif/hello.gif" /></b></h1>
 
 **💼 Currently working as:**
 
@@ -30,10 +30,10 @@ Software Engineer at <a href="https://www.saigon-tech.vn/" target="_blank"><b>SA
 
 **📫 Reach me at:**<br>
 <!-- ![width="30px"](gif/facebook.gif) -->
-[<img align="center" alt="TTT0809 | Facebook" height="30px" src="gif/facebook.gif" />][facebook]
-[<img align="center" alt="tantai1123 | Github" height="30px" src="gif/github.gif" />][github]
+[<img align="center" alt="TTT0809 | Facebook" height="45px" src="gif/facebook.gif" />][facebook]
+[<img align="center" alt="tantai1123 | Github" height="40px" src="gif/github.gif" />][github]
+[<img align="center" alt="tantai1123 | Github" height="30px" src="gif/linkedin.gif" />][github]
 
-
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[linkedin]: https://www.linkedin.com/in/tantai0809/
 [facebook]: https://facebook.com/TTT0809/
 [github]: https://github.com/tantai1123/
