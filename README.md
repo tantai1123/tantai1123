@@ -3,17 +3,20 @@
 **💼 Currently working as:**
 
 Software Engineer at <a href="https://www.saigon-tech.vn/" target="_blank"><b>SAIGON TECH COMPANY LIMITED <img width="25px" src="gif/logo.png" /></b></a>
+<br>
 
 **:computer: Programming Language:**
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></a></code>
 <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></a></code>
+<br>
 
 **:zap: Framework & Library:**
 
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
 <code><a href="https://expressjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
 <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
+<br>
 
 **:wrench: Tools:**
 
@@ -24,7 +27,6 @@ Software Engineer at <a href="https://www.saigon-tech.vn/" target="_blank"><b>SA
 <code><a href="https://www.postman.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
-<code><a href="https://trello.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></a></code>
 
 <div align="center">
 
@@ -32,7 +34,7 @@ Software Engineer at <a href="https://www.saigon-tech.vn/" target="_blank"><b>SA
 <!-- ![width="30px"](gif/facebook.gif) -->
 [<img align="center" alt="TTT0809 | Facebook" height="45px" src="gif/facebook.gif" />][facebook]
 [<img align="center" alt="tantai1123 | Github" height="40px" src="gif/github.gif" />][github]
-[<img align="center" alt="tantai1123 | Github" height="30px" src="gif/linkedin.gif" />][github]
+[<img align="center" alt="tantai0809 | Linkedin" height="30px" src="gif/linkedin.gif" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/tantai0809/
 [facebook]: https://facebook.com/TTT0809/
