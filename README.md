@@ -1,4 +1,4 @@
-<h1 align= "center"><b>:v: Hello, I'm Tấn Tài :v:</b></h1>
+<h1 align= "center"><b><img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> Hello, I'm Tấn Tài <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></b></h1>
 
 **💼 Currently working as:**
 
@@ -29,13 +29,11 @@ Software Engineer at <a href="https://www.saigon-tech.vn/" target="_blank"><b>SA
 <div align="center">
 
 **📫 Reach me at:**<br>
+<!-- ![width="30px"](gif/facebook.gif) -->
+[<img align="center" alt="TTT0809 | Facebook" height="30px" src="gif/facebook.gif" />][facebook]
+[<img align="center" alt="tantai1123 | Github" height="30px" src="gif/github.gif" />][github]
 
-[![Linkedin: Trương Tấn Tài](https://img.shields.io/badge/-tantai0809-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/tantai0809/)
-[![Facebook: TTT0809](https://img.shields.io/badge/-Facebook-2CA5E0?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/TTT0809/)
-[![GitHub: tantai1123](https://img.shields.io/badge/-tantai1123-white?style=plastic&logo=Github&logoColor=white&link=https://www.github.com/tantai1123/)](https://github.com/tantai1123)
 
-<!-- <div align="center">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
-
-</div>   -->
+[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[facebook]: https://facebook.com/TTT0809/
+[github]: https://github.com/tantai1123/
